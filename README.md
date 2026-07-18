@@ -53,10 +53,7 @@ My interests lie at the intersection of parallel architectures, numerical simula
 **Politecnico di Milano**
 *September 2025 – Present*
 
-Focus areas:
-* Parallel Programming, Numerical Linear Algebra, and Partial Differential Equations.
-* Quantum Computing and Quantum Physics.
-* Advanced Mathematical Models in Finance.
+* Focus areas: Parallel Programming, Numerical Linear Algebra, Partial Differential Equations, Software Engineering, Advanced Mathematical Models in Finance, Advanced Computer Architectures Quantum Physics.
 
 ### Exchange Semester (Statistics & Business Analytics)
 
