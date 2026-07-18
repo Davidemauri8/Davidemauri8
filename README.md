@@ -92,12 +92,6 @@ An end-to-end computer vision and machine learning algorithm developed in MATLAB
 
 🔗 https://github.com/Davidemauri8/Leaf-Classification-System
 
-### Exoplanets Data Mining Project
-
-A complete machine learning and exploratory data analysis project on an Exoplanets dataset using R and R Markdown, including missing value imputation, regression analysis, and classification models.
-
-🔗 https://github.com/Davidemauri8/Exoplanets-Data-Mining
-
 ---
 
 ## Technical Stack
